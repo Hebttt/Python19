@@ -1,0 +1,12 @@
+2025-09-05 09:08:05,793 - INFO - Consulta exitosa para something@hotmail.com. Brechas encontradas: 146
+2025-09-07 21:21:50,247 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:22:04,595 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:23:31,107 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:23:53,320 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:24:22,042 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:24:30,562 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:24:38,027 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-07 21:24:49,189 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-09 15:44:16,682 - ERROR - Error de conexión: module 'funciones' has no attribute 'consultar_brechas'
+2025-09-09 15:46:45,181 - INFO - something@hotmail.com comprometido en 146 brechas.
+2025-09-09 15:49:13,758 - INFO - something@hotmail.com comprometido en 146 brechas.

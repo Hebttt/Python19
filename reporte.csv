@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-10-04,"Email addresses, Password hints, Passwords, Usernames",Sí,No
+Manga Traders,mangatraders.com,2014-06-09,"Email addresses, Passwords",Sí,No
+mail.ru Dump,mail.ru,2014-09-10,"Email addresses, Passwords",No,No
